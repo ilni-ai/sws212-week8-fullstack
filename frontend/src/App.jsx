@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 // const API = "http://localhost:8000";
-const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API = import.meta.env.VITE_API_URL || "https://sws212-week8-fullstack.onrender.com";
 // Component that displays a list of students and allows
 //  adding/deleting students
 export default function App() {
