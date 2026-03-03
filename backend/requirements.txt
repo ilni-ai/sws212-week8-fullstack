@@ -1,0 +1,15 @@
+flask
+flask-cors
+fastapi
+uvicorn
+requests
+pydantic
+python-dotenv
+sqlalchemy
+oracledb
+pymongo
+passlib[argon2]
+python-jose
+python-multipart
+motor
+pydantic-settings
